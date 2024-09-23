@@ -4,4 +4,5 @@ this is the 1st file created
 now i am going to insert lines here hh
 
 
-thrusday
+thrusday is today:wq
+
